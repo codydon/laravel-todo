@@ -1,0 +1,11 @@
+*{
+    background-color: aqua;
+    margin: 0px;
+
+}
+.container{
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:5%;
+    background-color: rgb(116, 148, 148);
+}
